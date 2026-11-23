@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://pritchoudhary.github.io/</loc>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://pritchoudhary.github.io/projects/spring-physics-lab/</loc>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://pritchoudhary.github.io/projects/scene-health-inspector/</loc>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://pritchoudhary.github.io/projects/vehicle-suspension/</loc>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://pritchoudhary.github.io/projects/spline-editor/</loc>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://pritchoudhary.github.io/projects/scene-placement/</loc>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://pritchoudhary.github.io/projects/ballistics-lab/</loc>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://pritchoudhary.github.io/projects/steering-behaviors/</loc>
+<priority>0.8</priority>
+</url>
+</urlset>
