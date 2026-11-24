@@ -48,4 +48,16 @@
 <loc>https://pritchoudhary.github.io/projects/steering-behaviors/</loc>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://pritchoudhary.github.io/projects/flocking-lab/</loc>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://pritchoudhary.github.io/projects/camera-composition/</loc>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://pritchoudhary.github.io/projects/visibility-occlusion/</loc>
+<priority>0.8</priority>
+</url>
 </urlset>
