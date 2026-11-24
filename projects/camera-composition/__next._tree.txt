@@ -1,5 +1,5 @@
-:HL["/_next/static/css/1942efe4db975b3e.css","style"]
+:HL["/_next/static/css/3cc393f01a22d7e9.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"camera-composition","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"x9eaVn-N5UpGJWrxMCy9w","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"pRJNgIBr7z9togv-1oPCM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
