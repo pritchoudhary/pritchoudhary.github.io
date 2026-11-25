@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://pritchoudhary.github.io/sitemap.xml
+Sitemap: https://pritishchoudhary.com/sitemap.xml
