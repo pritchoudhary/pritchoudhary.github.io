@@ -1,5 +1,6 @@
-:HL["/_next/static/css/3cc393f01a22d7e9.css","style"]
+:HL["/_next/static/css/2d33eff55c949105.css","style"]
+:HL["/_next/static/css/a5f37d9fb4abea11.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"spline-editor","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"pRJNgIBr7z9togv-1oPCM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"xVREZq2sFUahRhwZF2aa4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
